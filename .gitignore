@@ -1,0 +1,8 @@
+data
+dataloader
+dataset
+hymenoptera_data
+logs*
+p10
+vgg16_method2.pth
+tudui_29_gpu.pth
